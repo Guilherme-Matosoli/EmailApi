@@ -1,7 +1,3 @@
-Certamente! Aqui está um exemplo de arquivo README para sua API de envio de e-mails:
-
----
-
 # API de Envio de E-mails
 
 Bem-vindo à API de Envio de E-mails, um projeto desenvolvido com paixão por Guilherme Matos.

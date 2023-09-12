@@ -11,7 +11,7 @@ export class SendMailController{
       };
   
       await transporter.sendMail({
-        from: '"Guilherme Matos" <guilhermematosgto2015@outlook.com>',
+        from: '"SEU NOME AQUI" <SEU EMAIL AQUI>',
         to: mail,
         replyTo: mail,
         subject: `${ subject } - ${ mail }`,

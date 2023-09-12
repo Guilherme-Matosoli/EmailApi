@@ -85,5 +85,3 @@ Este endpoint permite enviar e-mails com os seguintes campos no corpo da requisi
 Esta API foi desenvolvida com muita paixão por Guilherme Matos. Se você deseja saber mais sobre meu trabalho, não hesite em visitar meu [LinkedIn](https://www.linkedin.com/in/guilherme-matos-13b6a6229/).
 
 --- 
-
-Lembre-se de personalizar os URLs, nomes de usuário e outros detalhes conforme necessário. Este README serve como um guia inicial para os usuários que desejam usar sua API de envio de e-mails.

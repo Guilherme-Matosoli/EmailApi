@@ -3,11 +3,11 @@ import nodemailer from "nodemailer";
 const { EMAIL, PASSWORD } = process.env;
 
 export const transporter = nodemailer.createTransport({
-  host: "smtp.gmail.com",
-  port: 465,
-  secure: true,
-  auth:{
-    user: "",
-    pass: ""
-  }
+  host: 'smtp.elasticemail.com', 
+  port: 2525,
+  secure: false, 
+  auth: {
+    user: EMAIL, 
+    pass: PASSWORD,
+  },
 });
